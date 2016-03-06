@@ -13,4 +13,8 @@
     <string name="permission_rationale">"Contacts permissions are needed for providing email
         completions."
     </string>
+    <string name="productName">Eggo Waffles Homestyle</string>
+    <string name="heartValue">60%</string>
+    <string name="heartbreakValue">5%</string>
+    <string name="whatPeopleSay">What People Say :</string>
 </resources>
